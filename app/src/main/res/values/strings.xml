@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">SelfCare</string>
+    <string name="exercise">Exercise</string>
+    <string name="mindfullness">Mindfullness</string>
+    <string name="mindfulness">mindfulness</string>
+    <string name="nutrition">Nutrition</string>
+
+
+    <string-array name="diet">
+        <item>Balanced</item>
+        <item>High-Fiber</item>
+        <item>High-Protein</item>
+        <item>Low-Carb</item>
+        <item>Low-Fat</item>
+        <item>Low-Sodium</item>
+    </string-array>
+
+
+    <string-array name="cuisineType">
+        <item>Chinese</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>Indian</item>
+        <item>Japanese</item>
+        <item>Mexican</item>
+        <item>Nordic</item>
+        <item>British</item>
+        <item>Caribbean</item>
+        <item>Central Europe</item>
+        <item>Kosher</item>
+        <item>Mediterranean</item>
+    </string-array>
+
+
+    <string-array name="mealType">
+        <item>Breakfast</item>
+        <item>Dinner</item>
+        <item>Lunch</item>
+        <item>Snack</item>
+        <item>Teatime</item>
+    </string-array>
+
+    <string-array name="optionSet1">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="optionSet2">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="optionSet3">
+        <item>Below 25</item>
+        <item>Below 25</item>
+    </string-array>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

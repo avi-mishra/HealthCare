@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/exercise"
+        android:title="@string/exercise"
+        android:icon="@drawable/dumbell"/>
+    <item
+        android:id="@+id/mindfulness"
+        android:title="@string/mindfulness"
+        android:icon="@drawable/telepathy"/>
+    <item
+        android:id="@+id/food"
+        android:title="@string/nutrition"
+        android:icon="@drawable/cutlery"/>
+</menu>
