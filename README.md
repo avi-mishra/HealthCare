@@ -1,0 +1,2 @@
+# HealthCare
+A basic health care application which tells and shows about various yogas poses and exercises to do for daily health. It tells about food recipes and their nutritional value. It also gives a daily challenge to perform. We're using java and kotlin as languages to build the android app. We used Firebase for messaging service , authentication and database.We used food api for all the recipe and nutrients details.
